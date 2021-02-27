@@ -1,1 +1,3 @@
 # gituirement
+
+Gituirement, the git based requirements management system, comming soon...
